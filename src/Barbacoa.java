@@ -1,0 +1,2 @@
+public class Barbacoa {
+}
